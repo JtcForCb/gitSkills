@@ -4,3 +4,5 @@ add something to test conflict
 =======
 add something to test conflict
 >>>>>>> feature1
+
+test --no-ff  普通模式合并，git log 可以看到合并分支的内容	
