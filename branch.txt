@@ -1,2 +1,6 @@
 test create new branch
-add something to test conflict two
+<<<<<<< HEAD
+add something to test conflict
+=======
+add something to test conflict
+>>>>>>> feature1
